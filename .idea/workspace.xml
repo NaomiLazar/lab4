@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88bd09d7-1443-490c-adf3-134db3cac5f3" name="Changes" comment="" />
+    <list default="true" id="88bd09d7-1443-490c-adf3-134db3cac5f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Echipament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Echipament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestionareEchipamente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestionareEchipamente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/electronice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/electronice.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NaomiLazar"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NaomiLazar/lab4.git",
+    "accountId": "e212d9fa-bddb-45b7-9323-5edbe0860773"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ol8mT01C7jpcDarOchbHujx0O3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +48,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GestionareEchipamente.executor": "Run",
+    "Application.MagazinEchipamente.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/PC/IdeaProjects/lab4/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,7 +78,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731432964214</updated>
-      <workItem from="1731432965256" duration="1000" />
+      <workItem from="1731432965256" duration="197000" />
+      <workItem from="1731495817001" duration="977000" />
+      <workItem from="1731764105297" duration="1529000" />
     </task>
     <servers />
   </component>
